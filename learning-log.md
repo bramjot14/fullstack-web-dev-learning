@@ -1,6 +1,6 @@
 ## Full Stack Web Development Learning Log
 
-Course: Complete Full Stack Web Development Bootcamp
+Course: Complete Full Stack Web Development Bootcamp- Angela Yu
 
 Day-1:
 
