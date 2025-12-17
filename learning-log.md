@@ -11,4 +11,9 @@ Completed:
 - JavaScript expressions in JSX
 - ES6 template literals
 
-Status: Completed
+### React Module – Styling
+Completed:
+- JSX attributes & styling React elements
+- Inline styling for React elements
+- React styling practice
+
