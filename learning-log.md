@@ -21,3 +21,12 @@ Completed:
 - Inline styling for React elements
 - React styling practice
 
+  
+Day-3:
+
+### React Components
+
+- Learned how to create and structure functional React components
+- Practiced returning JSX correctly from components
+- Built a time-based greeting component with conditional rendering and dynamic styling
+  
