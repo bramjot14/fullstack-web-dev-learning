@@ -1,7 +1,5 @@
 ## Full Stack Web Development Learning Log
 
-Course: Complete Full Stack Web Development Bootcamp- Angela Yu
-
 Day-1:
 
 ### React Module – Basics
@@ -30,3 +28,11 @@ Day-3:
 - Practiced returning JSX correctly from components
 - Built a time-based greeting component with conditional rendering and dynamic styling
   
+Day-4:
+
+### React Module – State Persistence
+
+- Implemented cart state persistence using localStorage
+- Loaded initial cart state with JSON.parse() for page refresh support
+- Saved cart updates automatically using useEffect
+- Applied best practices for separating state updates and side effects
