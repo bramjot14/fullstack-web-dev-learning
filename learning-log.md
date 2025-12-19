@@ -23,16 +23,17 @@ Completed:
 Day-3:
 
 ### React Components
-
+Completed:
 - Learned how to create and structure functional React components
 - Practiced returning JSX correctly from components
 - Built a time-based greeting component with conditional rendering and dynamic styling
   
+
 Day-4:
 
-### React Module – State Persistence
-
-- Implemented cart state persistence using localStorage
-- Loaded initial cart state with JSON.parse() for page refresh support
-- Saved cart updates automatically using useEffect
-- Applied best practices for separating state updates and side effects
+### ES6 Modules – Import & Export Practice
+Completed:
+- Created default export and named exports in a separate module
+- Imported default and named exports into a React entry file
+- Fixed common syntax issues with ES6 imports/exports
+- Understood when to call functions vs passing references
