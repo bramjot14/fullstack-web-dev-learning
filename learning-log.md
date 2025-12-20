@@ -37,3 +37,17 @@ Completed:
 - Imported default and named exports into a React entry file
 - Fixed common syntax issues with ES6 imports/exports
 - Understood when to call functions vs passing references
+
+
+Day-5:
+
+###  React Project – Keeper App
+Completed:
+- Built a simple Keeper notes app using React
+- Created and composed reusable components (`Header`, `Note`, `Footer`)
+- Practiced JSX rules (single parent element, fragments, return syntax)
+- Fixed common React mistakes (component naming, returns, semicolons in JSX)
+- Improved understanding of default vs named exports in real project usage
+- Applied basic styling using CSS
+
+
