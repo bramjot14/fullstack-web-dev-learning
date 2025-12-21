@@ -64,3 +64,13 @@ Completed:
 - Strengthened understanding of component reusability and data flow
 - Applied CSS styling to dynamic components
 - Debugged undefined errors caused by missing exports
+
+  Day-7:
+
+### React Module – Mapping Components & Props
+Completed:
+- Used Array.map() to dynamically render components
+- Passed data as props to reusable components
+- Separated UI into clean, reusable React components
+- Rendered structured data from an external JS file
+- Improved component readability and scalability
