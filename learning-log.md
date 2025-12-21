@@ -51,3 +51,16 @@ Completed:
 - Applied basic styling using CSS
 
 
+Day-6:
+  
+### React Props & Data Handling – Contacts App
+Completed:
+- Practiced passing data to components using props
+- Created reusable Card component for displaying contact details
+- Stored contact data in an external JavaScript array
+- Imported and consumed external data files in React
+- Accessed object properties from arrays using index notation
+- Fixed common props and export/import errors
+- Strengthened understanding of component reusability and data flow
+- Applied CSS styling to dynamic components
+- Debugged undefined errors caused by missing exports
