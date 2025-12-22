@@ -1,8 +1,8 @@
 ## Full Stack Web Development Learning Log
 
 Day-1:
-
 ### React Module – Basics
+
 Completed:
 - What is React
 - React module overview
@@ -12,8 +12,8 @@ Completed:
 - ES6 template literals
 
 Day-2:
-
 ### React Module – Styling
+
 Completed:
 - JSX attributes & styling React elements
 - Inline styling for React elements
@@ -21,8 +21,8 @@ Completed:
 
   
 Day-3:
-
 ### React Components
+
 Completed:
 - Learned how to create and structure functional React components
 - Practiced returning JSX correctly from components
@@ -30,8 +30,8 @@ Completed:
   
 
 Day-4:
-
 ### ES6 Modules – Import & Export Practice
+
 Completed:
 - Created default export and named exports in a separate module
 - Imported default and named exports into a React entry file
@@ -40,8 +40,8 @@ Completed:
 
 
 Day-5:
-
 ###  React Project – Keeper App
+
 Completed:
 - Built a simple Keeper notes app using React
 - Created and composed reusable components (`Header`, `Note`, `Footer`)
@@ -52,8 +52,8 @@ Completed:
 
 
 Day-6:
-  
 ### React Props & Data Handling – Contacts App
+
 Completed:
 - Practiced passing data to components using props
 - Created reusable Card component for displaying contact details
@@ -65,12 +65,24 @@ Completed:
 - Applied CSS styling to dynamic components
 - Debugged undefined errors caused by missing exports
 
-  Day-7:
-
+Day-7:
 ### React Module – Mapping Components & Props
+
 Completed:
 - Used Array.map() to dynamically render components
 - Passed data as props to reusable components
 - Separated UI into clean, reusable React components
 - Rendered structured data from an external JS file
 - Improved component readability and scalability
+
+Day-8:
+### JavaScript Array Methods & String Handling
+
+Completed:
+- Learned map() to transform each item in an array into a new value
+- Practiced filter() to create arrays based on true/false conditions
+- Understood reduce() for accumulating values into a single result
+- Used find() to get the first matching element from an array
+- Used findIndex() to get the index of the first matching element
+- Applied substring() to extract specific portions of a string
+- Gained clarity on operating at the correct level: array → item → property → string
