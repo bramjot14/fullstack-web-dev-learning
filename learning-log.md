@@ -86,3 +86,14 @@ Completed:
 - Used findIndex() to get the index of the first matching element
 - Applied substring() to extract specific portions of a string
 - Gained clarity on operating at the correct level: array → item → property → string
+
+Day-9:
+### JavaScript ES6 Arrow Functions
+
+Completed:
+- Learned ES6 arrow function syntax for cleaner and shorter function definitions
+- Converted traditional functions into arrow functions
+- Practiced arrow functions with single and multiple parameters
+- Used implicit return for single-expression functions
+- Applied arrow functions as callbacks inside array methods
+- Improved code readability and reduced boilerplate code
