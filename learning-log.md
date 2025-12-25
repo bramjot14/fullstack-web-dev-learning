@@ -97,3 +97,18 @@ Completed:
 - Used implicit return for single-expression functions
 - Applied arrow functions as callbacks inside array methods
 - Improved code readability and reduced boilerplate code
+
+Day-10:
+### React – Mapping Components & Dynamic Rendering (Keeper App Part 2)
+
+Completed:
+- Used Array.map() to render multiple React components dynamically
+- Passed data from a separate file (notes.js) into components via props
+- Rendered reusable Note components instead of hardcoding UI
+- Applied the key prop correctly while mapping components
+- Improved component structure by separating data and UI logic
+- Strengthened understanding of parent-to-child data flow in React
+- Built a scalable notes UI similar to Google Keep
+
+🔗 Project Repository:
+- https://github.com/bramjot14/react-keeper-app-mapping
