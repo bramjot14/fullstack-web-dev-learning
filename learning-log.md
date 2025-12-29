@@ -131,3 +131,21 @@ Conditional rendering allows React apps to stay dynamic and responsive without u
 
 🔗 Project Repository:
 - https://github.com/bramjot14/react-conditional-rendering
+
+Day-12:
+### React State & useState Hook
+
+Completed:
+Learned the concept of state in React and why it is needed for dynamic UI
+Understood the difference between declarative and imperative programming
+Explored how React automatically re-renders components when state changes
+Practiced using the useState hook to store and update component data
+Updated state based on user interactions (button clicks)
+Separated logic (functions) from UI (JSX) for cleaner components
+Built a simple practice project to reinforce state updates and re-rendering behavior
+
+Key Takeaway:
+State is the core of interactivity in React. Using useState allows components to manage data and automatically keep the UI in sync with user actions.
+
+🔗 Project Repository:
+- https://github.com/bramjot14/react-usestate-hook-practice
