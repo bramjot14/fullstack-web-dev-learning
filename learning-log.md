@@ -149,3 +149,21 @@ State is the core of interactivity in React. Using useState allows components to
 
 🔗 Project Repository:
 - https://github.com/bramjot14/react-usestate-hook-practice
+
+Day-13:
+### React Lists, Keys & Dynamic Rendering
+
+Completed:
+- Learned how to render lists in React using the map() method
+- Understood why React requires keys for list items
+- Used unique keys to help React efficiently update the UI
+- Practiced rendering dynamic data instead of hardcoded JSX
+- Built reusable components for list items
+- Improved component structure by separating data and UI logic
+- Gained confidence handling real-world array-based rendering patterns
+
+Key Takeaway:
+Rendering lists with proper keys is essential for performance and predictable UI updates in React applications.
+
+🔗 Project Repository:
+- https://github.com/bramjot14/javascript-es6-destructuring-practice
