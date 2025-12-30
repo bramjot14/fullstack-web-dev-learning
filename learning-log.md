@@ -1,5 +1,6 @@
 ## Full Stack Web Development Learning Log
 
+
 Day-1:
 ### React Module – Basics
 
@@ -10,6 +11,7 @@ Completed:
 - JSX and Babel
 - JavaScript expressions in JSX
 - ES6 template literals
+
 
 Day-2:
 ### React Module – Styling
@@ -26,8 +28,8 @@ Day-3:
 Completed:
 - Learned how to create and structure functional React components
 - Practiced returning JSX correctly from components
-- Built a time-based greeting component with conditional rendering and dynamic styling
-  
+- Built a time-based greeting component with conditional rendering and dynamic styling  
+
 
 Day-4:
 ### ES6 Modules – Import & Export Practice
@@ -37,6 +39,7 @@ Completed:
 - Imported default and named exports into a React entry file
 - Fixed common syntax issues with ES6 imports/exports
 - Understood when to call functions vs passing references
+
 
 
 Day-5:
@@ -49,6 +52,7 @@ Completed:
 - Fixed common React mistakes (component naming, returns, semicolons in JSX)
 - Improved understanding of default vs named exports in real project usage
 - Applied basic styling using CSS
+
 
 
 Day-6:
@@ -65,6 +69,7 @@ Completed:
 - Applied CSS styling to dynamic components
 - Debugged undefined errors caused by missing exports
 
+
 Day-7:
 ### React Module – Mapping Components & Props
 
@@ -74,6 +79,7 @@ Completed:
 - Separated UI into clean, reusable React components
 - Rendered structured data from an external JS file
 - Improved component readability and scalability
+
 
 Day-8:
 ### JavaScript Array Methods & String Handling
@@ -87,6 +93,7 @@ Completed:
 - Applied substring() to extract specific portions of a string
 - Gained clarity on operating at the correct level: array → item → property → string
 
+
 Day-9:
 ### JavaScript ES6 Arrow Functions
 
@@ -97,6 +104,7 @@ Completed:
 - Used implicit return for single-expression functions
 - Applied arrow functions as callbacks inside array methods
 - Improved code readability and reduced boilerplate code
+
 
 Day-10:
 ### React – Mapping Components & Dynamic Rendering (Keeper App Part 2)
@@ -112,6 +120,7 @@ Completed:
 
 🔗 Project Repository:
 - https://github.com/bramjot14/react-keeper-app-mapping
+
 
 Day-11:
 ### React Conditional Rendering
@@ -132,6 +141,7 @@ Conditional rendering allows React apps to stay dynamic and responsive without u
 🔗 Project Repository:
 - https://github.com/bramjot14/react-conditional-rendering
 
+
 Day-12:
 ### React State & useState Hook
 
@@ -150,6 +160,7 @@ State is the core of interactivity in React. Using useState allows components to
 🔗 Project Repository:
 - https://github.com/bramjot14/react-usestate-hook-practice
 
+
 Day-13:
 ### React Lists, Keys & Dynamic Rendering
 
@@ -167,3 +178,21 @@ Rendering lists with proper keys is essential for performance and predictable UI
 
 🔗 Project Repository:
 - https://github.com/bramjot14/javascript-es6-destructuring-practice
+
+
+Day-14: 
+### React Event Handling
+
+Completed:
+- Learned how React handles user interactions through event handlers
+- Used onClick to trigger state updates
+- Practiced onMouseOver and onMouseOut events
+- Managed UI changes using useState
+- Implemented conditional styling based on user interaction
+- Strengthened understanding of React re-rendering on state change
+
+Key Takeaway:
+React event handlers allow components to respond to user actions. State should represent behavior (like hover or click), while UI styles should be derived from that state.
+
+🔗 Project Repository:
+https://github.com/bramjot14/react-event-handling-practice
