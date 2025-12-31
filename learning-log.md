@@ -1,5 +1,5 @@
 ## Full Stack Web Development Learning Log
-
+--------------
 
 Day-1:
 ### React Module – Basics
@@ -12,6 +12,7 @@ Completed:
 - JavaScript expressions in JSX
 - ES6 template literals
 
+--------------
 
 Day-2:
 ### React Module – Styling
@@ -21,6 +22,10 @@ Completed:
 - Inline styling for React elements
 - React styling practice
 
+🔗 Project Repository:
+- https://github.com/bramjot14/react-styling-practice
+
+--------------
   
 Day-3:
 ### React Components
@@ -30,6 +35,10 @@ Completed:
 - Practiced returning JSX correctly from components
 - Built a time-based greeting component with conditional rendering and dynamic styling  
 
+🔗 Project Repository:
+- https://github.com/bramjot14/react-components-practice
+
+--------------
 
 Day-4:
 ### ES6 Modules – Import & Export Practice
@@ -40,7 +49,10 @@ Completed:
 - Fixed common syntax issues with ES6 imports/exports
 - Understood when to call functions vs passing references
 
+🔗 Project Repository:
+- https://github.com/bramjot14/es6-import-export-practice
 
+--------------
 
 Day-5:
 ###  React Project – Keeper App
@@ -53,7 +65,10 @@ Completed:
 - Improved understanding of default vs named exports in real project usage
 - Applied basic styling using CSS
 
+🔗 Project Repository:
+- https://github.com/bramjot14/keeper-app-react
 
+--------------
 
 Day-6:
 ### React Props & Data Handling – Contacts App
@@ -69,6 +84,10 @@ Completed:
 - Applied CSS styling to dynamic components
 - Debugged undefined errors caused by missing exports
 
+🔗 Project Repository:
+- https://github.com/bramjot14/keeper-app-react
+
+--------------
 
 Day-7:
 ### React Module – Mapping Components & Props
@@ -80,6 +99,11 @@ Completed:
 - Rendered structured data from an external JS file
 - Improved component readability and scalability
 
+🔗 Projects Repository:
+- https://github.com/bramjot14/react-props-contacts-app
+- https://github.com/bramjot14/react-mapping-components-practice
+
+--------------
 
 Day-8:
 ### JavaScript Array Methods & String Handling
@@ -93,6 +117,10 @@ Completed:
 - Applied substring() to extract specific portions of a string
 - Gained clarity on operating at the correct level: array → item → property → string
 
+🔗 Projects Repository:
+- https://github.com/bramjot14/js-array-methods-practice
+
+--------------
 
 Day-9:
 ### JavaScript ES6 Arrow Functions
@@ -105,6 +133,10 @@ Completed:
 - Applied arrow functions as callbacks inside array methods
 - Improved code readability and reduced boilerplate code
 
+🔗 Projects Repository:
+- https://github.com/bramjot14/javascript-es6-arrow-functions-practice
+
+--------------
 
 Day-10:
 ### React – Mapping Components & Dynamic Rendering (Keeper App Part 2)
@@ -121,6 +153,7 @@ Completed:
 🔗 Project Repository:
 - https://github.com/bramjot14/react-keeper-app-mapping
 
+--------------
 
 Day-11:
 ### React Conditional Rendering
@@ -141,6 +174,7 @@ Conditional rendering allows React apps to stay dynamic and responsive without u
 🔗 Project Repository:
 - https://github.com/bramjot14/react-conditional-rendering
 
+--------------
 
 Day-12:
 ### React State & useState Hook
@@ -160,6 +194,7 @@ State is the core of interactivity in React. Using useState allows components to
 🔗 Project Repository:
 - https://github.com/bramjot14/react-usestate-hook-practice
 
+--------------
 
 Day-13:
 ### React Lists, Keys & Dynamic Rendering
@@ -179,6 +214,7 @@ Rendering lists with proper keys is essential for performance and predictable UI
 🔗 Project Repository:
 - https://github.com/bramjot14/javascript-es6-destructuring-practice
 
+--------------
 
 Day-14: 
 ### React Event Handling
