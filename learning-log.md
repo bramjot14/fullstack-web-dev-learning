@@ -232,3 +232,27 @@ React event handlers allow components to respond to user actions. State should r
 
 🔗 Project Repository:
 https://github.com/bramjot14/react-event-handling-practice
+
+
+---
+
+Day-15:
+
+### React Forms & Controlled Inputs
+
+Completed:
+- Learned how forms work in React using controlled components
+- Used `useState` to store and manage form input values
+- Connected input fields to state using the `value` attribute
+- Handled user input through `onChange` events
+- Understood the difference between input change events and button click events
+- Prevented common mistakes like setting state to `undefined` from non-input elements
+- Observed how React re-renders UI when form state updates
+
+Key Takeaway:
+In React, form inputs should be controlled by state. The input value must come from state, and all changes should update that state to keep the UI predictable and in sync.
+
+🔗 Project Repository:
+https://github.com/bramjot14/react-forms-practice
+
+---
