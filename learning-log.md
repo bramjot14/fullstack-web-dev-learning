@@ -231,13 +231,12 @@ Key Takeaway:
 React event handlers allow components to respond to user actions. State should represent behavior (like hover or click), while UI styles should be derived from that state.
 
 🔗 Project Repository:
-https://github.com/bramjot14/react-event-handling-practice
+- https://github.com/bramjot14/react-event-handling-practice
 
 
 ---
 
 Day-15:
-
 ### React Forms & Controlled Inputs
 
 Completed:
@@ -253,6 +252,26 @@ Key Takeaway:
 In React, form inputs should be controlled by state. The input value must come from state, and all changes should update that state to keep the UI predictable and in sync.
 
 🔗 Project Repository:
-https://github.com/bramjot14/react-forms-practice
+- https://github.com/bramjot14/react-forms-practice
+
+---
+
+Day-16:
+### React – Changing Complex State
+
+Completed:
+- Learned how to manage multiple related values using a single state object
+- Updated complex state safely using the functional form of `useState`
+- Used `prevValue` to preserve existing state while updating specific fields
+- Handled multiple inputs with a single `onChange` handler using the `name` attribute
+- Implemented controlled inputs for reliable form state management
+- Understood why React requires immutable state updates
+- Observed how React re-renders components when complex state changes
+
+Key Takeaway:
+When state depends on previous values, React requires functional updates to ensure predictable behavior and prevent accidental data loss.
+
+🔗 Project Repository:
+- https://github.com/bramjot14/react-changing-complex-state
 
 ---
