@@ -275,3 +275,23 @@ When state depends on previous values, React requires functional updates to ensu
 - https://github.com/bramjot14/react-changing-complex-state
 
 ---
+
+Day-17:
+### React To-Do List 
+
+Completed:
+- Built a simple To-Do List using React
+- Used `useState` to manage input and list data
+- Implemented controlled input using `value` and `onChange`
+- Updated array state using previous state and spread operator
+- Rendered dynamic list items using `map()`
+- Cleared input field after adding an item
+- Strengthened understanding of immutability in React state updates
+
+Key Takeaway:
+In React, state should always be updated immutably. Using the spread
+operator with previous state ensures predictable UI updates and
+prevents accidental data loss.
+
+🔗 Project Repository:
+https://github.com/bramjot14/react-todo-list-practice
