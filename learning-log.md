@@ -298,7 +298,7 @@ https://github.com/bramjot14/react-todo-list-practice
 
 ----
 
-Day-16:
+Day-18:
 ### React Managing a Component Tree
 
 Completed:
@@ -318,7 +318,7 @@ https://github.com/bramjot14/react-managing-component-tree
 
 ---
 
-Day-17:
+Day-19:
 ### React State Management & Component Communication
 
 Completed:
