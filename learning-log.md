@@ -366,5 +366,7 @@ Completed:
 Key Takeaway:
 JavaScript allows websites to become interactive. Variables store data, data types define what kind of data is stored, and functions like alert() help in understanding how JavaScript communicates with users and the browser.
 
+🔗 Project Repository:
+
 ---
 
