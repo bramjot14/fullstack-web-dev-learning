@@ -350,4 +350,21 @@ https://github.com/bramjot14/react-keeper-app-part-3
 
 ---
 
+Day-20: Introduction to JavaScript & Basics
+
+Completed:
+- Learned what JavaScript is and how it adds behavior to websites
+- Understood how JavaScript runs in the browser
+- Used alert() to display pop-up messages
+- Explored basic JavaScript data types (String, Number, Boolean)
+- Learned how to declare variables using var
+- Understood variable naming rules and best practices
+- Practiced storing and updating values in variables
+- Completed a hands-on JavaScript variables coding exercise
+- Reviewed the solution to reinforce correct logic and syntax
+
+Key Takeaway:
+JavaScript allows websites to become interactive. Variables store data, data types define what kind of data is stored, and functions like alert() help in understanding how JavaScript communicates with users and the browser.
+
+---
 
