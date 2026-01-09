@@ -365,6 +365,9 @@ Completed:
 Key Takeaway:
 JavaScript allows websites to become interactive. Variables store data, data types define what kind of data is stored, and functions like alert() help in understanding how JavaScript communicates with users and the browser.
 
+🔗 Practice Exercises:
+- javascript-basics/
+
 ---
 
 ### Day-21: JavaScript Strings, Numbers & Naming Conventions
@@ -383,5 +386,8 @@ Completed:
 
 Key Takeaway:
 Strings and numbers are core data types in JavaScript. Understanding how to manipulate text, perform calculations, and follow proper naming conventions helps write clean, readable, and error-free code.
+
+🔗 Practice Exercises:
+- javascript-basics/
 
 ---
