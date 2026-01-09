@@ -360,13 +360,28 @@ Completed:
 - Learned how to declare variables using var
 - Understood variable naming rules and best practices
 - Practiced storing and updating values in variables
-- Completed a hands-on JavaScript variables coding exercise
 - Reviewed the solution to reinforce correct logic and syntax
 
 Key Takeaway:
 JavaScript allows websites to become interactive. Variables store data, data types define what kind of data is stored, and functions like alert() help in understanding how JavaScript communicates with users and the browser.
 
-🔗 Project Repository:
-
 ---
 
+### Day-21: JavaScript Strings, Numbers & Naming Conventions
+
+Completed:
+
+- Learned JavaScript variable naming rules and common naming conventions
+- Practiced identifying valid and invalid variable names through a quiz
+- Used string concatenation to combine text and variables
+- Retrieved string length using the `.length` property
+- Extracted parts of a string using slicing methods
+- Understood how to convert strings to uppercase and lowercase
+- Learned basic arithmetic operations in JavaScript
+- Used the modulo (`%`) operator to find remainders
+- Practiced increment (`++`) and decrement (`--`) expressions
+
+Key Takeaway:
+Strings and numbers are core data types in JavaScript. Understanding how to manipulate text, perform calculations, and follow proper naming conventions helps write clean, readable, and error-free code.
+
+---
