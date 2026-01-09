@@ -399,13 +399,13 @@ Day-22:
 ### JavaScript – Functions 
 
 Completed:
-Learned how to create and call functions in JavaScript
-Understood function syntax, naming, and execution flow
-Learned how parameters and arguments allow functions to accept dynamic input
-Practiced performing calculations inside functions
-Learned how to produce outputs using return values
-Understood the difference between logging values vs returning values from functions
-Strengthened understanding of how functions make code reusable, readable, and maintainable
+- Learned how to create and call functions in JavaScript
+- Understood function syntax, naming, and execution flow
+- Learned how parameters and arguments allow functions to accept dynamic input
+- Practiced performing calculations inside functions
+- Learned how to produce outputs using return values
+- Understood the difference between logging values vs returning values from functions
+- Strengthened understanding of how functions make code reusable, readable, and maintainable
 
 Key Takeaway:
 Functions encapsulate logic into reusable blocks. Parameters make functions flexible, and return values allow functions to produce outputs that can be reused elsewhere in the program.
