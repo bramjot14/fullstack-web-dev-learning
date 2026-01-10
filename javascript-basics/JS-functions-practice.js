@@ -83,6 +83,28 @@ function isLeap(year) {
 // Example usage (for testing only)
 // var result = isLeap(2000);
 
+
+/* ===================================================
+   Challenge 4: Who's Paying (Random Selection)
+   ---------------------------------------------------
+   Given an array of names, randomly select one person
+   who will buy lunch and return a sentence.
+   Example:
+   Input: ["Angela", "Ben", "Jenny", "Michael", "Chloe"]
+   Output: "Jenny is going to buy lunch today!"
+   =================================================== */
+
+function whosPaying(names) {
+  var randomIndex = Math.floor(Math.random() * names.length);
+  var selectedName = names[randomIndex];
+
+  return selectedName + " is going to buy lunch today!";
+}
+
+// Example usage
+var namesList = ["Angela", "Ben", "Jenny", "Michael", "Chloe"];
+console.log(whosPaying(namesList));
+
    
 /* ===================================================
    Challenge 5: Fibonacci Generator
