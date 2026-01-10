@@ -433,7 +433,7 @@ Key Takeaway:
 Control flow (conditions + loops) combined with arrays allows you to solve real-world logic problems like random selection, validation, and sequence generation. Writing functions that return values instead of only using `console.log` leads to cleaner and reusable code.
 
 🔗 Practice Exercises:
-- [javascript-basics](./javascript-basics)
+- [javascript-basics](./javascript-basics/JS-functions-practice.js)
 
 ---
 
