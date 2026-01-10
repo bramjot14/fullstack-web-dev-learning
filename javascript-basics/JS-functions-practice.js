@@ -36,9 +36,9 @@ lifeInWeeks(20);
    Challenge 2: BMI Calculator (Advanced – IF/ELSE)
    ---------------------------------------------------
    Calculate BMI and return a message based on:
-   - BMI < 18.5  → underweight
+   - BMI < 18.5     → underweight
    - BMI 18.5–24.9 → normal weight
-   - BMI > 24.9  → overweight
+   - BMI > 24.9     → overweight
    =================================================== */
 
 function bmiCalculator(weight, height) {
@@ -56,3 +56,29 @@ function bmiCalculator(weight, height) {
 
 // Example usage (for testing only)
 // var result = bmiCalculator(65, 1.8);
+
+
+/* ===================================================
+   Challenge 3: Leap Year Checker
+   ---------------------------------------------------
+   Determine whether a given year is a leap year.
+   Rules:
+   - Divisible by 4 → leap year
+   - Except divisible by 100 → not a leap year
+   - Unless divisible by 400 → leap year
+   =================================================== */
+
+function isLeap(year) {
+  if (year % 400 === 0) {
+    return "Leap year.";
+  } else if (year % 100 === 0) {
+    return "Not leap year.";
+  } else if (year % 4 === 0) {
+    return "Leap year.";
+  } else {
+    return "Not leap year.";
+  }
+}
+
+// Example usage (for testing only)
+// var result = isLeap(2000);
