@@ -31,6 +31,7 @@ function lifeInWeeks(age) {
 // Example usage
 lifeInWeeks(20);
 
+---
 
 /* ===================================================
    Challenge 2: BMI Calculator (Advanced – IF/ELSE)
@@ -57,7 +58,8 @@ function bmiCalculator(weight, height) {
 // Example usage (for testing only)
 // var result = bmiCalculator(65, 1.8);
 
-
+---
+   
 /* ===================================================
    Challenge 3: Leap Year Checker
    ---------------------------------------------------
@@ -82,3 +84,44 @@ function isLeap(year) {
 
 // Example usage (for testing only)
 // var result = isLeap(2000);
+
+---
+   
+/* ===================================================
+   Challenge 5: Fibonacci Generator
+   ---------------------------------------------------
+   Generate the first n numbers of the Fibonacci sequence.
+   The sequence starts with:
+   0, 1, 1, 2, 3, 5, 8, ...
+
+   Rules:
+   - The first number must be 0
+   - The second number must be 1
+   - Every number after that is the sum of the two previous numbers
+
+   Example:
+   fibonacciGenerator(3) → [0, 1, 1]
+   fibonacciGenerator(6) → [0, 1, 1, 2, 3, 5]
+   =================================================== */
+
+function fibonacciGenerator(n) {
+  var array = [];
+
+  for (var i = 0; i < n; i++) {
+    if (i === 0) {
+      array.push(0);
+    } else if (i === 1) {
+      array.push(1);
+    } else {
+      array.push(array[i - 1] + array[i - 2]);
+    }
+  }
+
+  return array;
+}
+
+// Example usage
+console.log(fibonacciGenerator(6));
+
+---
+
