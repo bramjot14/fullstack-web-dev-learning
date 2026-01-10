@@ -31,7 +31,6 @@ function lifeInWeeks(age) {
 // Example usage
 lifeInWeeks(20);
 
----
 
 /* ===================================================
    Challenge 2: BMI Calculator (Advanced – IF/ELSE)
@@ -58,7 +57,6 @@ function bmiCalculator(weight, height) {
 // Example usage (for testing only)
 // var result = bmiCalculator(65, 1.8);
 
----
    
 /* ===================================================
    Challenge 3: Leap Year Checker
@@ -85,7 +83,6 @@ function isLeap(year) {
 // Example usage (for testing only)
 // var result = isLeap(2000);
 
----
    
 /* ===================================================
    Challenge 5: Fibonacci Generator
@@ -122,6 +119,4 @@ function fibonacciGenerator(n) {
 
 // Example usage
 console.log(fibonacciGenerator(6));
-
----
 
