@@ -414,3 +414,27 @@ Functions encapsulate logic into reusable blocks. Parameters make functions flex
 - [javascript-basics](./javascript-basics)
 
 ---
+
+Day-23:
+### Intermediate JavaScript – Control Flow, Arrays & Algorithms
+
+Completed:
+- Learned random number generation using `Math.random()` and `Math.floor()`
+- Practiced conditional logic using `if / else` statements
+- Understood comparators (`> < >= <= === !==`) and equality operators
+- Learned how to combine multiple conditions using logical operators (`&&`, `||`)
+- Learned how to work with JavaScript arrays and array collections
+- Practiced adding elements and intermediate array techniques
+- Learned about `while` loops and how loop conditions work
+- Understood `for` loops and their practical use cases
+- Completed the **Fibonacci Generator** challenge using loops and arrays
+
+Key Takeaway:
+Control flow (conditions + loops) combined with arrays allows you to solve real-world logic problems like random selection, validation, and sequence generation. Writing functions that return values instead of only using `console.log` leads to cleaner and reusable code.
+
+🔗 Practice Exercises:
+- [javascript-basics](./javascript-basics)
+
+---
+
+
