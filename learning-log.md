@@ -437,14 +437,6 @@ Control flow (conditions + loops) combined with arrays allows you to solve real-
 
 ---
 
-Here’s a clean, ready-to-paste **Learning Log entry** for the topics you completed 👇
-
----
-
-Here’s your **properly formatted, clean GitHub-ready learning log entry** (you can paste directly into your `learning-log.md`):
-
----
-
 ## Day-24
 
 ### JavaScript DOM Basics
