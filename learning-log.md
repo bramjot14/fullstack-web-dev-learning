@@ -437,4 +437,49 @@ Control flow (conditions + loops) combined with arrays allows you to solve real-
 
 ---
 
+Here’s a clean, ready-to-paste **Learning Log entry** for the topics you completed 👇
+
+---
+
+Here’s your **properly formatted, clean GitHub-ready learning log entry** (you can paste directly into your `learning-log.md`):
+
+---
+
+## Day-24
+
+### JavaScript DOM Basics
+
+**Completed:**
+
+* Learned how to add JavaScript to websites using:
+
+  * Internal `<script>` tags
+  * External `.js` files *(best practice)*
+* Understood what the **DOM (Document Object Model)** is
+  → How the browser turns HTML into a tree structure that JavaScript can control
+* Learned how JavaScript can **access and modify HTML elements dynamically**
+* Practiced **selecting HTML elements using JavaScript**, including:
+
+  * `document.querySelector()`
+  * `document.querySelectorAll()`
+  * `document.getElementById()`
+  * `document.getElementsByClassName()`
+* Learned how to **manipulate elements and styles using JavaScript**, such as:
+
+  * Changing text content
+  * Modifying HTML elements dynamically
+  * Updating CSS styles through JavaScript
+  * Adding and removing classes
+
+**Key Takeaways:**
+
+* JavaScript can fully control HTML + CSS using the DOM
+* `querySelector` is powerful because it works like CSS selectors
+* Styles should usually be changed using classes instead of inline styles
+* DOM manipulation is the foundation for interactive websites
+
+---
+
+
+
 
