@@ -476,24 +476,24 @@ Control flow (conditions + loops) combined with arrays allows you to solve real-
 
 ## JavaScript DOM – Deeper Concepts
 
-Completed:
-	•	Learned the Separation of Concerns principle:
-	•	HTML → Structure
-	•	CSS → Style
-	•	JavaScript → Behaviour
-	•	Understood why keeping these separate makes code cleaner and more maintainable
-	•	Learned about Text Manipulation using the textContent property:
-	•	How to read text from an element
-	•	How to update text dynamically using JavaScript
-	•	Learned how to manipulate HTML element attributes, including:
-	•	Getting attributes using getAttribute()
-	•	Setting attributes using setAttribute()
-	•	Changing links, images, and other element properties dynamically
+### Completed:
+* Learned the Separation of Concerns principle:
+* HTML → Structure
+* CSS → Style
+* JavaScript → Behaviour
+* Understood why keeping these separate makes code cleaner and more maintainable
+* Learned about Text Manipulation using the textContent property:
+* How to read text from an element
+* How to update text dynamically using JavaScript
+* Learned how to manipulate HTML element attributes, including:
+* Getting attributes using getAttribute()
+* Setting attributes using setAttribute()
+* Changing links, images, and other element properties dynamically
 
 Key Takeaways:
-	•	Clean projects follow structure/style/behaviour separation
-	•	textContent is safer and more predictable than injecting raw HTML
-	•	Attributes allow JavaScript to fully control how elements behave
-	•	These concepts are essential for building interactive UI
+* Clean projects follow structure/style/behaviour separation
+* textContent is safer and more predictable than injecting raw HTML
+* Attributes allow JavaScript to fully control how elements behave
+* These concepts are essential for building interactive UI
 
 ⸻
