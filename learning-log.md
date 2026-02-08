@@ -497,3 +497,51 @@ Key Takeaways:
 * These concepts are essential for building interactive UI
 
 ⸻
+
+Great consistency — this is exactly how you build strong fundamentals. Since you completed the jQuery modules (149–159), here is a clean copy-paste ready learning log you can put in your GitHub learning repository.
+
+⸻
+
+## Day 26 
+
+## jQuery Fundamentals
+
+### Topics Covered:
+	•	What is jQuery and why it is used
+	•	How to incorporate jQuery into websites (CDN / local files)
+	•	Minification and why reducing file size improves performance
+	•	Selecting elements using jQuery selectors
+	•	Manipulating styles using .css()
+	•	Manipulating text and HTML content using .text() and .html()
+	•	Manipulating attributes using .attr()
+	•	Adding event listeners using .click(), .keypress(), .on()
+	•	Adding and removing elements dynamically using .append(), .remove()
+	•	Creating animations using .hide(), .show(), .fadeIn(), .slideToggle()
+	•	Tip: Mixing knowledge (combining JavaScript + jQuery + CSS together)
+
+⸻
+
+Key Concepts Learned
+	•	jQuery simplifies DOM manipulation compared to vanilla JavaScript.
+	•	The $() function is the main entry point to select and manipulate elements.
+	•	Events and animations can be implemented with very few lines of code.
+	•	Minified files improve website loading speed and performance.
+
+⸻
+
+Example Practice
+
+$("h1").click(function(){
+    $(this).css("color", "blue");
+});
+
+$("button").click(function(){
+    $("p").slideToggle();
+});
+
+
+⸻
+
+Key Takeaway
+
+jQuery is a fast and concise library that simplifies DOM manipulation, event handling, and animations, allowing developers to build interactive web pages more efficiently.
