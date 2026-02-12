@@ -545,3 +545,54 @@ $("button").click(function(){
 Key Takeaway
 
 jQuery is a fast and concise library that simplifies DOM manipulation, event handling, and animations, allowing developers to build interactive web pages more efficiently.
+
+------
+
+Here is your copy-paste ready learning log for these completed modules.
+
+⸻
+
+Day 27 – Express.js Fundamentals
+
+Topics Covered
+	•	What Express.js is and why it is used in Node.js applications
+	•	Creating the first server using Express
+	•	Understanding HTTP requests (GET, POST, etc.)
+	•	Using Postman to test API endpoints
+	•	Introduction to Middleware and how it works in the request-response cycle
+	•	Creating custom middleware functions
+	•	Building the Secrets Access Project to practice routing and middleware
+	•	Tip: How to solidify knowledge by practicing real small projects
+
+⸻
+
+Key Concepts Learned
+	•	Express simplifies backend development by handling routing and server setup easily.
+	•	Middleware functions run between request and response to process data or perform checks.
+	•	Postman helps test backend APIs without needing a frontend.
+	•	Express servers listen on ports and handle routes using app.get() and app.post().
+
+⸻
+
+Example Practice
+
+const express = require("express");
+const app = express();
+
+app.get("/", function(req, res){
+    res.send("Server is running");
+});
+
+app.listen(3000, function(){
+    console.log("Server started on port 3000");
+});
+
+
+⸻
+
+Key Takeaway
+
+Express.js provides a simple and powerful way to build backend servers, manage routes, and use middleware to control request processing efficiently.
+
+⸻
+
