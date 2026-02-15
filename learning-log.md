@@ -647,3 +647,44 @@ app.get("/", function(req, res){
 EJS enables dynamic server-rendered webpages by combining HTML with JavaScript logic, making Express applications more flexible and scalable.
 
 ---
+
+### Day 29 (Dicee Project)
+
+**Topics Covered**
+
+* Creating an external JavaScript file and linking it to HTML
+* Generating random numbers using `Math.random()` and `Math.floor()`
+* Selecting elements using:
+
+  * `getElementsByClassName()`
+  * `querySelector()`
+* Dynamically changing image sources using JavaScript
+* Using conditional statements (`if / else`) to determine a winner
+* Updating page content dynamically using `innerHTML`
+
+**What I Built**
+
+* A Dicee game where:
+
+  * Two dice roll randomly when the page loads
+  * Dice images update automatically
+  * The heading displays:
+
+    * *Player 1 Wins*
+    * *Player 2 Wins*
+    * *Draw*
+
+**Key Learnings**
+
+* Difference between modifying **attributes** (`setAttribute`) and **element content** (`innerHTML`)
+* Importance of selecting the correct DOM element before modifying it
+* How JavaScript controls HTML elements dynamically
+
+**Next Step**
+
+* Add a **Refresh / Roll Dice button**
+* Improve UI styling and animations
+* Upload the project to GitHub for portfolio practice
+
+🔗 Project Repository:
+https://github.com/bramjot14/dice-game-javascript
