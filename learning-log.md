@@ -596,3 +596,54 @@ Express.js provides a simple and powerful way to build backend servers, manage r
 
 ⸻
 
+Here is your **copy-paste ready learning log** for the EJS modules.
+
+---
+
+## Day 28 – EJS Templating (Express.js)
+
+### Topics Covered
+
+* What **EJS (Embedded JavaScript)** is and why it is used
+* Understanding **EJS tags** and their purposes
+* Passing **dynamic data from Express to EJS templates**
+* Rendering pages using `res.render()`
+* Creating reusable and dynamic HTML views using templates
+
+---
+
+### Key Concepts Learned
+
+* EJS allows embedding JavaScript inside HTML to create dynamic webpages.
+* `<%= %>` is used to output values to the page.
+* `<% %>` is used for logic (loops, conditions).
+* Data can be passed from the server to templates using:
+
+  ```javascript
+  res.render("index", { name: "Bramjot" });
+  ```
+* Templating helps separate backend logic from frontend design.
+
+---
+
+### Example Practice
+
+```javascript
+app.get("/", function(req, res){
+    res.render("index", { day: "Monday" });
+});
+```
+
+**index.ejs**
+
+```html
+<h1>Today is <%= day %></h1>
+```
+
+---
+
+### Key Takeaway
+
+EJS enables dynamic server-rendered webpages by combining HTML with JavaScript logic, making Express applications more flexible and scalable.
+
+---
