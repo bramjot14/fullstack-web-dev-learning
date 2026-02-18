@@ -688,3 +688,42 @@ EJS enables dynamic server-rendered webpages by combining HTML with JavaScript l
 
 🔗 Project Repository:
 https://github.com/bramjot14/dice-game-javascript
+
+---
+
+Day 30 – EJS Partials and Layouts
+
+Topics Covered
+	•	Understanding EJS partials and why they are used
+	•	Creating reusable components such as header, footer, and navbar
+	•	Using <%- include("filename") %> to insert partials inside templates
+	•	Concept of layouts to maintain consistent structure across pages
+	•	Improving project structure by separating repeated UI sections
+
+⸻
+
+Key Concepts Learned
+	•	Partials help avoid repeating the same HTML code in multiple pages.
+	•	Common sections like navigation bars and footers should be stored as partial files.
+	•	Layouts make websites easier to maintain and update because changes in one partial reflect everywhere.
+	•	EJS templates become cleaner and more modular using partials.
+
+⸻
+
+Example Practice
+
+<!-- index.ejs -->
+<%- include("partials/header") %>
+
+<h1>Welcome to my website</h1>
+
+<%- include("partials/footer") %>
+
+
+⸻
+
+Key Takeaway
+
+Using EJS partials and layouts improves code organization, reusability, and maintainability, making Express applications easier to scale and manage.
+
+⸻
