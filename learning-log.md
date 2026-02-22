@@ -727,3 +727,60 @@ Key Takeaway
 Using EJS partials and layouts improves code organization, reusability, and maintainability, making Express applications easier to scale and manage.
 
 ⸻
+
+---
+
+## Day 31 – Simon Game Challenge Completed
+
+---
+
+### ✅ What I Completed
+
+* Built the full **Simon Game** using HTML, CSS, and JavaScript.
+* Implemented game logic including:
+
+  * Random sequence generation
+  * User input detection
+  * Sound effects for each button
+  * Animation effects on click
+  * Level progression system
+  * Game over logic with restart feature
+
+---
+
+### 🧠 What I Learned
+
+* How to use **event listeners** effectively.
+* Managing state with arrays (`gamePattern`, `userClickedPattern`).
+* Comparing two arrays step-by-step for validation.
+* Using `setTimeout()` for sequence animation timing.
+* Working with **jQuery** for DOM manipulation and animations.
+* Understanding game flow control and resetting variables properly.
+
+---
+
+### ⚡ Challenges Faced
+
+* Matching user input with the correct sequence.
+* Handling game restart without page refresh.
+* Timing issues between animation and sound.
+
+---
+
+### 💡 Reflection
+
+This project improved my understanding of:
+
+* JavaScript logic building
+* DOM manipulation
+* Event-driven programming
+* Writing cleaner and structured code
+
+It strengthened my confidence in building interactive frontend projects.
+
+---
+
+🔗 Project Repository:
+https://github.com/bramjot14/simon-game-javascript
+
+
