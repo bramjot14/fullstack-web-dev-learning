@@ -783,4 +783,34 @@ It strengthened my confidence in building interactive frontend projects.
 🔗 Project Repository:
 https://github.com/bramjot14/simon-game-javascript
 
+---
+
+Here’s a short and clean Learning Log for Section 28 (APIs):
+
+⸻
+
+📘 Day 32- Application Programming Interfaces (APIs)
+
+🔹 Topics Covered:
+	•	Introduction to APIs
+	•	Structuring API Requests
+
+🧠 What I Learned:
+	•	APIs allow applications to communicate with each other.
+	•	REST APIs commonly use HTTP methods like GET, POST, PUT, DELETE.
+	•	API requests consist of:
+	•	Endpoint (URL)
+	•	HTTP Method
+	•	Headers
+	•	Body (optional)
+	•	Data is commonly transferred in JSON format.
+	•	Proper request structuring is important for successful communication with servers.
+
+💡 Key Takeaway:
+
+Understanding how to structure API requests is essential for building full-stack applications, especially when connecting React frontends to Express/Node backends.
+
+⸻
+
+
 
