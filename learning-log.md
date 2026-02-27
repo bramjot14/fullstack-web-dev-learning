@@ -812,5 +812,23 @@ Understanding how to structure API requests is essential for building full-stack
 
 ⸻
 
+Day 33 - JSON Module (Node.js)
+
+⸻
+
+Today I learned about the JSON. I understood how JSON (JavaScript Object Notation) is used to store and exchange data between client and server.
+
+🔹 Key Concepts Learned:
+	•	What JSON format looks like (key–value pairs).
+	•	Difference between JavaScript objects and JSON.
+	•	Using JSON.stringify() to convert a JavaScript object into a JSON string.
+	•	Using JSON.parse() to convert a JSON string back into a JavaScript object.
+	•	How JSON is commonly used in APIs to send and receive data.
+
+💡 What I Understood:
+
+JSON is very important in full-stack development because it helps in transferring structured data between frontend and backend. It is lightweight and easy to read.
+
+⸻
 
 
