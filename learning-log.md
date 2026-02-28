@@ -832,3 +832,52 @@ JSON is very important in full-stack development because it helps in transferrin
 ⸻
 
 
+⸻
+
+Day 34:
+
+Topic: Making Server-Side API Requests with Axios
+Course: The Complete Full-Stack Web Development Bootcamp
+Instructor: Angela Yu
+
+🧠 What I Learned
+
+Today I learned how to make server-side API requests using Axios in Node.js.
+	•	Installed and imported axios in a Node/Express project.
+	•	Used axios.get() to fetch data from external APIs.
+	•	Understood how to handle async/await with API calls.
+	•	Learned how to access response data using:
+
+const response = await axios.get(url);
+console.log(response.data);
+
+
+	•	Understood the difference between:
+	•	Client-side API calls (browser)
+	•	Server-side API calls (Node.js backend)
+
+🔥 Key Concepts
+	•	Axios simplifies HTTP requests.
+	•	API responses return structured data (usually JSON).
+	•	Error handling using try...catch:
+
+try {
+  const response = await axios.get(url);
+} catch (error) {
+  console.log(error.message);
+}
+
+
+	•	Passing data from backend to EJS templates after fetching API data.
+
+🚀 Why This Is Important
+
+As a future full-stack developer, server-side API requests are important because:
+	•	We can protect API keys.
+	•	We can process data before sending it to the frontend.
+	•	It improves security and scalability.
+
+⸻
+
+
+
