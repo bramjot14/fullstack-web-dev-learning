@@ -831,53 +831,63 @@ JSON is very important in full-stack development because it helps in transferrin
 
 ⸻
 
+Day 34: Axios
 
-⸻
+📅 Topic: Using Axios to Fetch API Data
 
-Day 34:
+Today I worked on integrating the Axios library inside an Express application to fetch data from an external API.
 
-Topic: Making Server-Side API Requests with Axios
-Course: The Complete Full-Stack Web Development Bootcamp
-Instructor: Angela Yu
+🔹 What I Learned
+	•	How to install and import Axios in a Node.js project
+	•	How to use async/await inside Express route handlers
+	•	How to make a GET request using axios.get()
+	•	How to pass query parameters dynamically using template literals
+	•	How to access response.data
+	•	How to handle API errors using try-catch
+	•	How to render API results to an EJS template
+	•	How to randomly select an item from an array
 
-🧠 What I Learned
+🔹 Key Takeaways
+	•	Axios simplifies HTTP requests compared to native fetch in Node
+	•	Always wrap API calls inside try-catch for better error handling
+	•	Query parameters can be used to filter API results
+	•	Backend can process data before sending it to frontend
 
-Today I learned how to make server-side API requests using Axios in Node.js.
-	•	Installed and imported axios in a Node/Express project.
-	•	Used axios.get() to fetch data from external APIs.
-	•	Understood how to handle async/await with API calls.
-	•	Learned how to access response data using:
+This Project strengthened my understanding of API consumption in backend development.
 
-const response = await axios.get(url);
-console.log(response.data);
+Project Repository:
 
+-----
 
-	•	Understood the difference between:
-	•	Client-side API calls (browser)
-	•	Server-side API calls (Node.js backend)
+Day 35: API Authentication
 
-🔥 Key Concepts
-	•	Axios simplifies HTTP requests.
-	•	API responses return structured data (usually JSON).
-	•	Error handling using try...catch:
+📅 Topic: API Authentication Methods
 
-try {
-  const response = await axios.get(url);
-} catch (error) {
-  console.log(error.message);
-}
+Today I learned about different methods of authenticating API requests using Axios.
 
+🔹 What I Learned
+	•	What API authentication is and why it is important
+	•	How to make requests without authentication
+	•	How to implement Basic Authentication (username + password)
+	•	How to use an API Key in query parameters
+	•	How to use Bearer Token Authentication in request headers
+	•	How to send headers in Axios requests
+	•	How secure APIs restrict access without valid credentials
 
-	•	Passing data from backend to EJS templates after fetching API data.
+🔹 Authentication Types Practiced
+	1.	No Auth
+	2.	Basic Auth
+	3.	API Key
+	4.	Bearer Token
 
-🚀 Why This Is Important
+🔹 Key Takeaways
+	•	Authentication protects API endpoints
+	•	Bearer tokens are commonly used in modern APIs
+	•	Headers play an important role in secure communication
+	•	Sensitive credentials should never be exposed in frontend code
 
-As a future full-stack developer, server-side API requests are important because:
-	•	We can protect API keys.
-	•	We can process data before sending it to the frontend.
-	•	It improves security and scalability.
+This exercise improved my understanding of real-world API security practices and backend request configuration.
 
-⸻
+Project Repository:
 
-
-
+-----
