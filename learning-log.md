@@ -891,3 +891,158 @@ This exercise improved my understanding of real-world API security practices and
 Project Repository:
 
 -----
+
+# Day 36 – Bored API Express Project -  – API Filtering with Express & Axios
+
+### 🎯 What I Built
+
+Today I built a small Express application that integrates with the **Bored API**. The app:
+
+* Shows a random activity on page load (`GET /`)
+* Allows users to filter activities by:
+
+  * Activity type
+  * Number of participants
+* Fetches filtered data dynamically using Axios
+* Handles errors gracefully when no activity matches criteria
+
+---
+
+## 🧠 Key Concepts Learned
+
+### 1️⃣ Making API Calls with Axios
+
+* Used `axios.get()` to fetch data from:
+
+  * `/random` endpoint
+  * `/filter` endpoint
+* Learned how to pass query parameters dynamically using:
+
+```js
+params: {
+  type: type,
+  participants: participants
+}
+```
+
+This is cleaner than manually building query strings.
+
+---
+
+### 2️⃣ Handling GET vs POST Routes
+
+* `app.get("/")`
+
+  * Fetches a random activity
+  * Renders `index.ejs` with API data
+
+* `app.post("/")`
+
+  * Reads user-selected filters from `req.body`
+  * Sends them as query parameters
+  * Renders filtered result
+
+Understood the difference between:
+
+* `req.body` → form POST data
+* `req.query` → URL query parameters
+
+---
+
+### 3️⃣ Using EJS for Dynamic Rendering
+
+Learned how to:
+
+* Pass data from backend to frontend using:
+
+```js
+res.render("index.ejs", { data: result })
+```
+
+* Display dynamic values using:
+
+```ejs
+<%= data.activity %>
+```
+
+* Conditionally render sections:
+
+```ejs
+<% if (locals.data) { %>
+```
+
+---
+
+### 4️⃣ Error Handling
+
+Implemented proper error handling using:
+
+```js
+try {
+} catch (error) {
+}
+```
+
+If the API returns no matching activity:
+
+* Displays: `"No activities that match your criteria."`
+* Prevents app from crashing
+
+This improved my understanding of backend stability.
+
+---
+
+### 5️⃣ Understanding API Response Structure
+
+Learned the difference between:
+
+* `/random` → returns a single object
+* `/filter` → may return an array
+
+Important for rendering correctly in EJS.
+
+---
+
+## 💡 What I Improved
+
+* Dynamic query parameter handling
+* Clean backend-to-frontend data flow
+* Using axios `params` professionally
+* Structuring Express routes properly
+* Thinking about edge cases (empty dropdowns)
+
+---
+
+## 🚀 Real-World Connection
+
+This project helped me understand:
+
+* How frontend apps communicate with APIs
+* How filtering works in real-world applications
+* How backend servers process user input safely
+
+This is directly useful for:
+
+* React API fetching
+* Full-stack development
+* Building real production applications
+
+---
+
+## 🏁 Summary
+
+Today I successfully built a dynamic Express application that:
+
+* Fetches external API data
+* Filters based on user input
+* Handles errors properly
+* Renders dynamic content using EJS
+
+This strengthened my backend fundamentals and improved my API integration skills.
+
+---
+
+Project Repo: https://github.com/bramjot14/bored-api-express-app
+
+
+
