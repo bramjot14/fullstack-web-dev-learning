@@ -1044,5 +1044,26 @@ This strengthened my backend fundamentals and improved my API integration skills
 
 Project Repo: https://github.com/bramjot14/bored-api-express-app
 
+---
 
+Here is your **short and clean learning log** (as you prefer concise):
 
+---
+
+### Day 37 – REST Secrets API (CRUD)
+
+Today I implemented full CRUD operations using a REST API in a Node.js and Express application.
+
+I learned how to:
+
+* Use Axios to send GET, POST, PUT, PATCH, and DELETE requests.
+* Attach Authorization headers using Bearer tokens.
+* Understand the difference between PUT (full replacement) and PATCH (partial update).
+* Handle API errors properly using try/catch.
+* Send form data from Express to an external API.
+* Render API responses dynamically using EJS.
+
+This project improved my understanding of REST architecture, HTTP methods, and backend API integration.
+
+Project Repo: https://github.com/bramjot14/rest-secrets-api-crud
+---
