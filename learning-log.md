@@ -1067,3 +1067,30 @@ This project improved my understanding of REST architecture, HTTP methods, and b
 
 Project Repo: https://github.com/bramjot14/rest-secrets-api-crud
 ---
+
+## Day 38
+
+⸻
+
+Learning Log – SQL Basics and Relationships
+
+Topics Covered:
+	•	CREATE TABLE and INSERT Data
+	•	SELECT and WHERE queries
+	•	Updating values and adding columns
+	•	DELETE command
+	•	SQL Relationships, Foreign Keys, and INNER JOIN
+
+What I Learned:
+Today I learned the fundamental SQL commands used to manage and manipulate database data. I started with creating tables using CREATE TABLE and inserting records using INSERT INTO. I practiced retrieving data with the SELECT statement and filtering results using the WHERE clause.
+
+I also learned how to modify existing records using UPDATE and how to add new columns to an existing table. Additionally, I explored how to remove data from tables using the DELETE command.
+
+Finally, I understood how relational databases connect tables using foreign keys and how INNER JOIN can be used to retrieve related data from multiple tables.
+
+Key Takeaway:
+SQL allows structured data management through commands for creating, reading, updating, and deleting data, while relationships and joins help connect data across multiple tables.
+
+⸻
+
+
