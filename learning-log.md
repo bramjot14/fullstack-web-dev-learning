@@ -1069,8 +1069,7 @@ Project Repo: https://github.com/bramjot14/rest-secrets-api-crud
 ---
 
 ## Day 38
-
-⸻
+---
 
 Learning Log – SQL Basics and Relationships
 
@@ -1091,6 +1090,20 @@ Finally, I understood how relational databases connect tables using foreign keys
 Key Takeaway:
 SQL allows structured data management through commands for creating, reading, updating, and deleting data, while relationships and joins help connect data across multiple tables.
 
-⸻
+---
 
+## Day 39
+## API Authentication with Axios
+---
 
+* Learned how to make API requests in a Node.js Express application using Axios.
+* Implemented a request without authentication to understand basic API communication.
+* Practiced **Basic Authentication** by sending username and password in the Axios request configuration.
+* Used **API Key authentication** by passing the API key as a query parameter in the request URL.
+* Implemented **Bearer Token authentication** by adding an Authorization header in the request.
+* Understood how different APIs require different authentication methods for secure access.
+* Improved understanding of handling API responses and sending the results to an EJS template.
+* Gained practical experience working with external APIs in a backend Express application.
+
+Project Repo:
+https://github.com/bramjot14/axios-api-authentication
