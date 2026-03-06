@@ -1107,3 +1107,18 @@ SQL allows structured data management through commands for creating, reading, up
 
 Project Repo:
 https://github.com/bramjot14/axios-api-authentication
+
+---
+
+### Day 40
+### PostgreSQL
+
+	•	Learned the introduction to PostgreSQL, which is a powerful open-source relational database used to store and manage structured data.
+	•	Installed PostgreSQL and pgAdmin, understanding that PostgreSQL is the database server while pgAdmin is a graphical interface used to manage databases easily.
+	•	Studied keys in databases, especially Primary Key (unique identifier for each row) and Foreign Key (used to connect tables and maintain relationships).
+	•	Learned about common PostgreSQL data types such as INTEGER, TEXT, VARCHAR, and BOOLEAN, and how they define the type of data stored in columns.
+	•	Understood basic SQL keywords like CREATE, SELECT, INSERT, and DELETE which are used to interact with databases.
+	•	Practiced using pgAdmin to create a table, where I defined column names, selected appropriate data types, and set a primary key for unique identification.
+
+Key Learning:
+PostgreSQL allows structured data storage and management, and tools like pgAdmin make it easier to design tables, define keys, and interact with the database visually.
