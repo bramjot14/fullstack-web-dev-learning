@@ -691,43 +691,42 @@ https://github.com/bramjot14/dice-game-javascript
 
 ---
 
-Day 30 
+# Day 30
+
 ## EJS Partials and Layouts
 
-Topics Covered
-	•	Understanding EJS partials and why they are used
-	•	Creating reusable components such as header, footer, and navbar
-	•	Using <%- include("filename") %> to insert partials inside templates
-	•	Concept of layouts to maintain consistent structure across pages
-	•	Improving project structure by separating repeated UI sections
+### Topics Covered
+- Understanding EJS partials and why they are used
+- Creating reusable components such as header, footer, and navbar
+- Using `<%- include("filename") %>` to insert partials inside templates
+- Concept of layouts to maintain consistent structure across pages
+- Improving project structure by separating repeated UI sections
 
-⸻
+---
 
-Key Concepts Learned
-	•	Partials help avoid repeating the same HTML code in multiple pages.
-	•	Common sections like navigation bars and footers should be stored as partial files.
-	•	Layouts make websites easier to maintain and update because changes in one partial reflect everywhere.
-	•	EJS templates become cleaner and more modular using partials.
+## Key Concepts Learned
+- Partials help avoid repeating the same HTML code in multiple pages.
+- Common sections like navigation bars and footers should be stored as partial files.
+- Layouts make websites easier to maintain and update because changes in one partial reflect everywhere.
+- EJS templates become cleaner and more modular using partials.
 
-⸻
+---
 
-Example Practice
+## Example Practice
 
-<!-- index.ejs -->
+```ejs
 <%- include("partials/header") %>
 
-<h1>Welcome to my website</h1>
+Welcome to my website
 
 <%- include("partials/footer") %>
+````
 
+---
 
-⸻
+## Key Takeaway
 
-Key Takeaway
-
-Using EJS partials and layouts improves code organization, reusability, and maintainability, making Express applications easier to scale and manage.
-
-⸻
+Using EJS partials and layouts improves **code organization, reusability, and maintainability**, making Express applications easier to scale and manage.
 
 ---
 
@@ -1061,9 +1060,9 @@ Project Repo: https://github.com/bramjot14/bored-api-express-app
 * Practiced extracting form data using **`req.body`** and sending it as request payloads to external APIs.
 * Learned how **REST API endpoints use resource IDs** in the URL for operations like GET, PUT, PATCH, and DELETE.
 
-Overall, this project helped strengthen my understanding of **REST API communication, authentication, Express routing, and Axios-based HTTP requests**.
-
+Overall, this project helped strengthen my understanding of **REST API communication, authentication, Express routing, and Axios-based HTTP requests.
 Project Repo: https://github.com/bramjot14/secrets-api-crud-express
+
 ---
 
 Day 38
