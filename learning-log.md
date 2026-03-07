@@ -437,8 +437,7 @@ Control flow (conditions + loops) combined with arrays allows you to solve real-
 
 ---
 
-## Day-24
-
+Day-24
 ### JavaScript DOM Basics
 
 **Completed:**
@@ -472,8 +471,7 @@ Control flow (conditions + loops) combined with arrays allows you to solve real-
 
 ---
 
-## Day-25
-
+Day-25
 ## JavaScript DOM – Deeper Concepts
 
 ### Completed:
@@ -502,8 +500,7 @@ Great consistency — this is exactly how you build strong fundamentals. Since y
 
 ⸻
 
-## Day 26 
-
+Day 26 
 ## jQuery Fundamentals
 
 ### Topics Covered:
@@ -552,7 +549,8 @@ Here is your copy-paste ready learning log for these completed modules.
 
 ⸻
 
-Day 27 – Express.js Fundamentals
+Day 27 
+## Express.js Fundamentals
 
 Topics Covered
 	•	What Express.js is and why it is used in Node.js applications
@@ -600,7 +598,8 @@ Here is your **copy-paste ready learning log** for the EJS modules.
 
 ---
 
-## Day 28 – EJS Templating (Express.js)
+Day 28 
+## EJS Templating (Express.js)
 
 ### Topics Covered
 
@@ -648,7 +647,8 @@ EJS enables dynamic server-rendered webpages by combining HTML with JavaScript l
 
 ---
 
-### Day 29 (Dicee Project)
+Day 29 
+## Dicee Project
 
 **Topics Covered**
 
@@ -691,7 +691,8 @@ https://github.com/bramjot14/dice-game-javascript
 
 ---
 
-Day 30 – EJS Partials and Layouts
+Day 30 
+## EJS Partials and Layouts
 
 Topics Covered
 	•	Understanding EJS partials and why they are used
@@ -730,7 +731,8 @@ Using EJS partials and layouts improves code organization, reusability, and main
 
 ---
 
-## Day 31 – Simon Game Challenge Completed
+ Day 31 
+ ## Simon Game Challenge Completed
 
 ---
 
@@ -789,7 +791,8 @@ Here’s a short and clean Learning Log for Section 28 (APIs):
 
 ⸻
 
-📘 Day 32- Application Programming Interfaces (APIs)
+Day 32
+## Application Programming Interfaces (APIs)
 
 🔹 Topics Covered:
 	•	Introduction to APIs
@@ -812,9 +815,8 @@ Understanding how to structure API requests is essential for building full-stack
 
 ⸻
 
-Day 33 - JSON Module (Node.js)
-
-⸻
+Day 33 
+## JSON Module (Node.js)
 
 Today I learned about the JSON. I understood how JSON (JavaScript Object Notation) is used to store and exchange data between client and server.
 
@@ -831,9 +833,8 @@ JSON is very important in full-stack development because it helps in transferrin
 
 ⸻
 
-Day 34: Axios
-
-📅 Topic: Using Axios to Fetch API Data
+Day 34: 
+## Axios
 
 Today I worked on integrating the Axios library inside an Express application to fetch data from an external API.
 
@@ -859,9 +860,8 @@ Project Repository:
 
 -----
 
-Day 35: API Authentication
-
-📅 Topic: API Authentication Methods
+Day 35
+## API Authentication
 
 Today I learned about different methods of authenticating API requests using Axios.
 
@@ -892,7 +892,8 @@ Project Repository:
 
 -----
 
-# Day 36 – Bored API Express Project -  – API Filtering with Express & Axios
+Day 36 
+## Bored API Express Project -  – API Filtering with Express & Axios
 
 ### 🎯 What I Built
 
@@ -1046,32 +1047,27 @@ Project Repo: https://github.com/bramjot14/bored-api-express-app
 
 ---
 
-Here is your **short and clean learning log** (as you prefer concise):
+ Day 37 
+ ## Secrets API CRUD Project
 
+* Learned how to build a backend application using **Express.js** and interact with external APIs using **Axios**.
+* Implemented full **CRUD operations (GET, POST, PUT, PATCH, DELETE)** on the Secrets API.
+* Understood how **Bearer Token Authentication** works and how to include it in Axios requests using request headers.
+* Learned the correct Axios syntax: `axios.method(url, data, config)` and when `config` should be passed.
+* Practiced handling **HTTP requests and responses** inside Express routes using `async/await` and `try–catch` blocks.
+* Learned how to send API responses to the frontend using **EJS templates** and display them dynamically using `<%= content %>`.
+* Gained understanding of how **HTML forms interact with Express routes**, including why browsers only support **GET and POST methods**.
+* Understood the difference between **PUT (full resource update)** and **PATCH (partial resource update)** in REST APIs.
+* Practiced extracting form data using **`req.body`** and sending it as request payloads to external APIs.
+* Learned how **REST API endpoints use resource IDs** in the URL for operations like GET, PUT, PATCH, and DELETE.
+
+Overall, this project helped strengthen my understanding of **REST API communication, authentication, Express routing, and Axios-based HTTP requests**.
+
+Project Repo: https://github.com/bramjot14/secrets-api-crud-express
 ---
 
-### Day 37 – REST Secrets API (CRUD)
-
-Today I implemented full CRUD operations using a REST API in a Node.js and Express application.
-
-I learned how to:
-
-* Use Axios to send GET, POST, PUT, PATCH, and DELETE requests.
-* Attach Authorization headers using Bearer tokens.
-* Understand the difference between PUT (full replacement) and PATCH (partial update).
-* Handle API errors properly using try/catch.
-* Send form data from Express to an external API.
-* Render API responses dynamically using EJS.
-
-This project improved my understanding of REST architecture, HTTP methods, and backend API integration.
-
-Project Repo: https://github.com/bramjot14/rest-secrets-api-crud
----
-
-## Day 38
----
-
-Learning Log – SQL Basics and Relationships
+Day 38
+## SQL Basics and Relationships
 
 Topics Covered:
 	•	CREATE TABLE and INSERT Data
@@ -1092,7 +1088,7 @@ SQL allows structured data management through commands for creating, reading, up
 
 ---
 
-## Day 39
+Day 39
 ## API Authentication with Axios
 ---
 
@@ -1110,8 +1106,8 @@ https://github.com/bramjot14/axios-api-authentication
 
 ---
 
-### Day 40
-### PostgreSQL
+ Day 40
+## PostgreSQL
 
 	•	Learned the introduction to PostgreSQL, which is a powerful open-source relational database used to store and manage structured data.
 	•	Installed PostgreSQL and pgAdmin, understanding that PostgreSQL is the database server while pgAdmin is a graphical interface used to manage databases easily.
