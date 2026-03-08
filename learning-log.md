@@ -1117,3 +1117,19 @@ https://github.com/bramjot14/axios-api-authentication
 
 Key Learning:
 PostgreSQL allows structured data storage and management, and tools like pgAdmin make it easier to design tables, define keys, and interact with the database visually.
+
+---
+
+ Day 41 
+ ## Weather Dashboard – Initial Setup
+
+* Started building a weather dashboard using **Node.js, Express, and EJS**.
+* Integrated the **OpenWeather API** to fetch real-time weather data.
+* Used **Axios** to send API requests and retrieve weather information.
+* Extracted key data from the API response including **temperature, feels-like temperature, wind speed, humidity, pressure, and cloud coverage**.
+* Rendered the weather data dynamically in the UI using **EJS templating**.
+* Designed a simple **weather dashboard layout using HTML and CSS**.
+
+Project Repo: https://github.com/bramjot14/weather-dashboard
+
+**Next Steps:** Continue improving the project by enhancing UI and adding more features such as city-based weather search.
