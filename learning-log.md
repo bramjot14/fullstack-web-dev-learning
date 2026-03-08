@@ -1151,6 +1151,8 @@ Enhanced the weather dashboard by improving functionality, UI, and error handlin
 * Improved the **UI layout and styling** for better readability and presentation.
 * Updated the project **README documentation** to reflect the new features.
 
+Project Repo: https://github.com/bramjot14/weather-dashboard
+
 **Future Plan:**
 The next phase of this project will involve **rebuilding the frontend using React**.
 The current Express server will be converted into a **REST API**, and the UI will be developed in React to handle the weather display and city search functionality. All further feature improvements will be implemented in the **React-based version** of the application.
