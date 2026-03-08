@@ -1133,3 +1133,34 @@ PostgreSQL allows structured data storage and management, and tools like pgAdmin
 Project Repo: https://github.com/bramjot14/weather-dashboard
 
 **Next Steps:** Continue improving the project by enhancing UI and adding more features such as city-based weather search.
+
+---
+
+Day 42 
+## Weather Dashboard Improvements
+
+Enhanced the weather dashboard by improving functionality, UI, and error handling.
+
+**Work Completed:**
+
+* Implemented **city-based weather search functionality** using a POST route.
+* Added a form in the UI to allow users to search weather for any city.
+* Updated the server logic to fetch weather data dynamically based on user input.
+* Implemented **error handling for invalid city names** and displayed user-friendly error messages.
+* Used **conditional rendering in EJS** to show weather data only when valid results are available.
+* Improved the **UI layout and styling** for better readability and presentation.
+* Updated the project **README documentation** to reflect the new features.
+
+**Future Plan:**
+The next phase of this project will involve **rebuilding the frontend using React**.
+The current Express server will be converted into a **REST API**, and the UI will be developed in React to handle the weather display and city search functionality. All further feature improvements will be implemented in the **React-based version** of the application.
+
+**Upcoming Improvements (React Version):**
+
+* React-based frontend interface
+* Weather condition icons
+* 5-day weather forecast
+* Improved responsive UI
+* Geolocation-based weather detection
+
+---
