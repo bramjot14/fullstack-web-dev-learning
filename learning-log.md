@@ -1166,3 +1166,15 @@ The current Express server will be converted into a **REST API**, and the UI wil
 * Geolocation-based weather detection
 
 ---
+
+Day 43
+## PostgreSQL Modules
+
+* Learned how to read data from a PostgreSQL database using SQL queries.
+* Practiced using the SELECT statement to retrieve data from database tables.
+* Understood how to filter results using the WHERE clause in SQL.
+* Learned how the LIKE operator is used to search for patterns within text values in a table.
+* Studied the purpose of the UNIQUE constraint, which ensures that values in a column cannot be duplicated.
+* Learned about the NOT NULL constraint, which ensures that a column must always contain a value.
+* Practiced using the INSERT statement to add new records into a PostgreSQL table.
+* Gained a better understanding of how SQL queries are used to manage and manipulate data within relational databases.
