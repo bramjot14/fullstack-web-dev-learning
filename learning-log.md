@@ -1178,3 +1178,20 @@ Day 43
 * Learned about the NOT NULL constraint, which ensures that a column must always contain a value.
 * Practiced using the INSERT statement to add new records into a PostgreSQL table.
 * Gained a better understanding of how SQL queries are used to manage and manipulate data within relational databases.
+
+---
+
+Day 44
+### Learning Log — PostgreSQL Modules Comtinued
+
+* Learned about **One-to-One relationships** in relational databases and how a record in one table corresponds to exactly one record in another table.
+* Practiced using **INNER JOIN** to combine related data from two tables based on matching columns.
+* Studied **One-to-Many relationships**, where a single record in one table can be associated with multiple records in another table.
+* Learned about **Many-to-Many relationships**, where multiple records from one table can relate to multiple records in another table.
+* Understood how **junction tables** are used to manage many-to-many relationships between tables.
+* Learned how to use **SQL aliases** to simplify table or column names in queries and make queries easier to read.
+* Practiced **updating existing data** in a database using the `UPDATE` statement.
+* Learned how to **delete records from tables** using the `DELETE` statement.
+* Studied how to **remove tables from a database** using the `DROP TABLE` command.
+* Gained a deeper understanding of how **relational databases structure and manage relationships between different datasets**.
+
