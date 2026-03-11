@@ -1195,3 +1195,19 @@ Day 44
 * Studied how to **remove tables from a database** using the `DROP TABLE` command.
 * Gained a deeper understanding of how **relational databases structure and manage relationships between different datasets**.
 
+---
+
+Day 45
+### Authentication Modules
+
+* Learned the **basics of authentication**, which is used to verify the identity of users in a web application.
+* Studied how to **register users using email and password** and store user credentials securely.
+* Learned about **encryption and hashing** to protect user passwords before storing them in a database.
+* Understood how attackers can **hack weak passwords** and why strong security practices are important.
+* Learned how **salting passwords** improves security by adding random data before hashing.
+* Studied how **cookies and sessions** are used to maintain user login state across multiple requests.
+* Learned how **environment variables** help hide sensitive information such as API keys and secret tokens.
+* Practiced setting up **Google OAuth credentials** to allow authentication through a third-party provider.
+* Learned how **OAuth authentication** enables users to sign in using external services like Google.
+* Gained a better understanding of how **secure authentication systems are implemented in web applications** to protect user data.
+
