@@ -1211,3 +1211,21 @@ Day 45
 * Learned how **OAuth authentication** enables users to sign in using external services like Google.
 * Gained a better understanding of how **secure authentication systems are implemented in web applications** to protect user data.
 
+Day 46
+### CSS Fundamentals & CSS Properties
+
+Today I focused on learning the fundamentals of CSS (Cascading Style Sheets) and how it is used to style web pages and control layout.
+
+Key Concepts Learned:
+
+• Understood why CSS is needed to separate styling from HTML structure and make websites visually appealing.
+• Learned different ways to add CSS to a webpage including inline CSS, internal CSS, and external stylesheets.
+• Practiced using CSS selectors to target HTML elements such as element selectors, class selectors, and ID selectors.
+• Learned how to apply CSS colour properties to style text and backgrounds.
+• Studied font properties including font-size, font-family, font-weight, and text styling.
+• Learned how to inspect CSS using browser developer tools to debug styles and understand how CSS rules are applied.
+• Explored the CSS Box Model, including margin, padding, and border, and how these properties control spacing and layout.
+
+Outcome:
+
+This learning session helped strengthen my understanding of how CSS is used to control the visual appearance, typography, and layout of web pages.
