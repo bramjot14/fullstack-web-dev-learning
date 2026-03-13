@@ -1229,3 +1229,26 @@ Key Concepts Learned:
 Outcome:
 
 This learning session helped strengthen my understanding of how CSS is used to control the visual appearance, typography, and layout of web pages.
+
+---
+
+Day 47
+### Advanced CSS 
+
+Today I continued learning more advanced CSS concepts that help control layout, responsiveness, and how styles are applied on web pages.
+
+Key Concepts Learned
+
+• Learned about CSS Cascade, Specificity, and Inheritance, understanding how the browser decides which CSS rules apply when multiple styles target the same element.
+• Studied combining CSS selectors to target elements more precisely.
+• Learned CSS positioning concepts such as static, relative, absolute, and fixed positioning to control element placement.
+• Explored the CSS display property and how different values like block and inline affect layout behavior.
+• Learned about CSS float and how it can be used to position elements within a layout.
+• Understood the basics of responsive web design and how websites adapt to different screen sizes.
+• Learned how to use media queries to apply CSS styles based on device width and screen conditions.
+
+Outcome
+
+This session improved my understanding of how CSS controls layout behavior, element positioning, and responsiveness, which are important for building modern and adaptable web interfaces.
+
+⸻
