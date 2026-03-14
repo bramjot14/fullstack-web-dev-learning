@@ -1252,3 +1252,22 @@ Outcome
 This session improved my understanding of how CSS controls layout behavior, element positioning, and responsiveness, which are important for building modern and adaptable web interfaces.
 
 ⸻
+
+Day 48
+### CSS Flexbox
+
+Today I focused on learning **Flexbox**, a modern CSS layout system used to create flexible and responsive layouts.
+
+**Key Concepts Learned**
+
+• Learned how to enable Flexbox using **`display: flex`** and how it turns a container into a flex container.
+• Studied **flex direction**, understanding how items can be arranged in rows or columns using `row`, `row-reverse`, `column`, and `column-reverse`.
+• Learned how **flex layouts work**, including how elements align and distribute space inside a container.
+• Explored **flex sizing**, including how items grow, shrink, and take space using properties such as `flex-grow`, `flex-shrink`, and `flex-basis`.
+• Understood how Flexbox helps create **clean, responsive layouts** with less complex CSS.
+
+**Outcome**
+
+This session improved my understanding of how Flexbox simplifies layout creation and helps build flexible, responsive user interfaces in modern web development.
+
+---
