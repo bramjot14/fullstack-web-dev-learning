@@ -1271,3 +1271,24 @@ Today I focused on learning **Flexbox**, a modern CSS layout system used to crea
 This session improved my understanding of how Flexbox simplifies layout creation and helps build flexible, responsive user interfaces in modern web development.
 
 ---
+
+Day 49
+### CSS Grid
+
+Today I learned about CSS Grid, a powerful layout system used to create structured and responsive page layouts.
+
+Key Concepts Learned
+
+• Learned how to enable grid layout using display: grid to turn an element into a grid container.
+• Studied grid sizing, understanding how rows and columns are defined using properties like grid-template-columns and grid-template-rows.
+• Learned how to control the size of grid tracks using units such as fr, px, and percentages.
+• Explored grid placement, learning how items can be positioned within the grid using row and column lines.
+• Understood how CSS Grid helps build two-dimensional layouts (rows and columns) more efficiently compared to older layout techniques.
+
+Outcome
+
+This session improved my understanding of how CSS Grid can be used to design complex layouts with precise control over rows, columns, and element placement.
+
+⸻
+
+
