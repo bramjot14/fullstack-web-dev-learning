@@ -1291,4 +1291,20 @@ This session improved my understanding of how CSS Grid can be used to design com
 
 ⸻
 
+Day 50
+### Bootstrap 
 
+Today I learned Bootstrap, a popular CSS framework used to build responsive and mobile-first websites quickly.
+
+Key Concepts Learned
+
+• Understood what Bootstrap is and how it helps developers create responsive websites faster using pre-built CSS and components.
+• Learned about the Bootstrap grid system and layout structure, which allows pages to be divided into rows and columns for responsive design.
+• Studied various Bootstrap components such as buttons, navigation bars, cards, containers, and other UI elements that simplify interface design.
+• Learned how Bootstrap reduces the need to write large amounts of custom CSS by providing ready-to-use classes and responsive utilities.
+
+Outcome
+
+This session helped me understand how Bootstrap can speed up front-end development by providing a structured grid system and reusable UI components for building responsive web interfaces.
+
+⸻
